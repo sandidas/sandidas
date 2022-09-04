@@ -12,7 +12,7 @@
 <p style="font-size:1.2rem">Programming is my passion and profession. </p>
 <p style="font-size:1.2rem">Last few years, I have completed hundreds of web projects using various platforms. </p>
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
-<h2>Language and Tech Stack</h2>
+<h2><strong>Language and Tech Stack</strong></h2>
 <table>
     <td> <img src="img/react-svgrepo-com.svg" width="40px" alt="React"> </td>
     <td> <img src="img/php-svgrepo-com.svg" width="40px" alt="PHP"> </td>
@@ -21,25 +21,21 @@
     <td> <img src="img/wordpress-svgrepo-com.svg" width="40px" alt="WordPress"> </td>
     <td> <img src="img/codeigniter-logo-svgrepo-com.svg" width="40px" alt="CodeIgniter"> </td>
     <td> <img src="img/nodejs-icon-logo-svgrepo-com.svg" width="40px"  alt="NodeJs"> </td>
-    <td> <img src="img/html-svgrepo-com.svg" width="40px" alt="HTML5"> </td>
-    <td> <img src="img/css-3-svgrepo-com.svg" width="40px" alt="CSS3"> </td>
 </table>
-<h2>Tools and Technology</h2>
+<h2><strong>Tools and Technology</strong></h2>
 <table>
     <td> <img src="img/ubuntu-svgrepo-com.svg" width="40px" alt="ubuntu"> </td>
     <td> <img src="img/plesk-svgrepo-com.svg" width="40px" alt="plesk"> </td>
     <td> <img src="img/cpanel-svgrepo-com.svg" width="40px" alt="cpanel"> </td>
+    <td> <img src="img/html-svgrepo-com.svg" width="40px" alt="HTML5"> </td>
+    <td> <img src="img/css-3-svgrepo-com.svg" width="40px" alt="CSS3"> </td>
     <td> <img src="img/vscode3-svgrepo-com.svg" width="40px" alt="VsCode"> </td>
-    <td> <img src="" alt=""> </td>
 </table>
-
-<h2>📫 How to reach me: ...</h2>
-
+<h2><strong>Check work Examples</strong></h2>
 <img src="img/work-example.jpg" alt="Work Examples">
+<h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
 
-<h3> <a href="https://sandipandas.net">See More Work Examples</a> </h3>
-
-<h2>📫 How to reach me: ...</h2>
+<h2><strong>📫 How to reach me: ...</strong></h2>
 <table>
     <td><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="img/twitter-svgrepo-com.svg" alt="twitter"></a></td>
     <td><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">
