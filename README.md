@@ -13,7 +13,10 @@
 <p style="font-size:1.2rem">Last few years, I have completed hundreds of web projects using various platforms. </p>
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 
-<p>🔭 I’m currently working on <strong> SiteRacks, </strong> <strong> Cloud HCM </strong>  </p>
+<hr />
+My Portfolio Websites:
+<p>[SANDIPANDAS.NET] (https://sandipandas.net/)</p>
+<p>[SANDIPANDAS.DEV] (https://sandipandas.dev/)</p>
 
 
 
