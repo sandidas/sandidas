@@ -2,8 +2,7 @@
 
 <p style="font-size:1.2rem">I’m Sandipan Das, 
 <strong> Full Stack Web Developer</strong> (React, Laravel, WordPress, CodeIgniter, and UI/UX) </p>
-<p style="font-size:1.2rem">Programming is my passion and profession. </p>
-<p style="font-size:1.2rem">Last few years, I have completed hundreds of web projects using various platforms. </p>
+<p style="font-size:1.2rem">Programming is my passion and profession. Last few years, I have completed hundreds of web projects using various platforms. </p>
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 <h2><strong>Language and Tech Stack</strong></h2>
 <table>
@@ -24,7 +23,7 @@
     <td> <img src="img/css-3-svgrepo-com.svg" width="40px" alt="CSS3"> </td>
     <td> <img src="img/vscode3-svgrepo-com.svg" width="40px" alt="VsCode"> </td>
 </table>
-<h2><strong>Check work Examples</strong></h2>
+<h2 style="text-align:center"><strong>Check work Examples</strong></h2>
 <img src="img/work-example.jpg" alt="Work Examples">
 <h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
 
