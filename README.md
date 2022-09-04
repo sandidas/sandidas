@@ -14,30 +14,32 @@
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 
 
-<table>
-    <th>
-        <tr>
-        <td><strong> My Portfolio Websites: </strong></td> 
-        <td><strong> Social Links </strong></td> 
-        </tr>
-    </th>
-    <tbody>
-        <tr> 
-            <td><ul>
-<li><a target="_blank" href="https://sandipandas.net">sandipandas.net</a> </li>
-<li><a target="_blank" href="https://sandipandas.dev">sandipandas.dev</a> </li>
-</ul></td> 
-            <td><ul>
-<li><a target="_blank" href="https://twitter.com/sandipandas_net">Twitter</a></li>
-<li><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">Instagram</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">Linkedin</a></li>
-<li><a target="_blank" href="https://www.behance.net/sandipand">Behance</a></li>
-<li><a target="_blank" href="https://www.facebook.com/sandipandas.net">Facebook</a></li>
-<li><a target="_blank" href="skype:live:sandipanbdas?chat">Skype: sandipanbdas</a></li>
-<li><a target="_blank" href="https://calendly.com/sandipandas/15min">Calendly</a></li>
-</ul></td> 
-        </tr>
-    </tbody>
+
+<tbody>
+    <tr>
+        <td><strong> My Portfolio Websites: </strong></td>
+        <td><strong> Social Links </strong></td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li><a target="_blank" href="https://sandipandas.net">sandipandas.net</a> </li>
+                <li><a target="_blank" href="https://sandipandas.dev">sandipandas.dev</a> </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li><a target="_blank" href="https://twitter.com/sandipandas_net">Twitter</a></li>
+                <li><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">Instagram</a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">Linkedin</a></li>
+                <li><a target="_blank" href="https://www.behance.net/sandipand">Behance</a></li>
+                <li><a target="_blank" href="https://www.facebook.com/sandipandas.net">Facebook</a></li>
+                <li><a target="_blank" href="skype:live:sandipanbdas?chat">Skype: sandipanbdas</a></li>
+                <li><a target="_blank" href="https://calendly.com/sandipandas/15min">Calendly</a></li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
 </table>
 
 
