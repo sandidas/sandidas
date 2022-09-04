@@ -16,8 +16,10 @@
 
 <table>
     <th>
+        <tr>
         <td><strong> My Portfolio Websites: </strong></td> 
         <td><strong> Social Links </strong></td> 
+        </tr>
     </th>
     <tbody>
         <tr> 
