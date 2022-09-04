@@ -14,11 +14,22 @@
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 
 <hr />
-My Portfolio Websites:
-<p>[SANDIPANDAS.NET] (https://sandipandas.net/)</p>
-<p>[SANDIPANDAS.DEV] (https://sandipandas.dev/)</p>
+<strong> My Portfolio Websites: </strong>
+<p>https://sandipandas.net</p>
+<p>https://sandipandas.dev</p>
 
+<strong> Social Links </strong>
+<ul>
+<li><a href="https://twitter.com/sandipandas_net">Twitter</a></li>
+<li><a href="https://www.instagram.com/sandipandas.dev/">Instagram</a></li>
+<li><a href="https://www.linkedin.com/in/sandipandasdev/">Linkedin</a></li>
+<li><a href="https://www.behance.net/sandipand">Behance</a></li>
+<li><a href="https://www.facebook.com/sandipandas.net">Facebook</a></li>
+<li><a href="skype:live:sandipanbdas?chat">Skype</a></li>
+<li><a href="https://calendly.com/sandipandas/15min">Calendly</a></li>
+</ul>
 
+Let's schedule a meeting by  <a href="https://calendly.com/sandipandas/15min">calendly Click Here </a>
 
 <!--
 **sandidas/sandidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
