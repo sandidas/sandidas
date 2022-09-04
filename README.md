@@ -23,11 +23,7 @@
     <td> <img src="img/css-3-svgrepo-com.svg" width="40px" alt="CSS3"> </td>
     <td> <img src="img/vscode3-svgrepo-com.svg" width="40px" alt="VsCode"> </td>
 </table>
-<h2 style="text-align:center"><strong>Check work Examples</strong></h2>
-<img src="img/work-example.jpg" alt="Work Examples">
-<h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
-
-<h2><strong>📫 How to reach me: ...</strong></h2>
+<h2><strong>📫 How to reach me:</strong></h2>
 <table>
     <td><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="img/twitter-svgrepo-com.svg" alt="twitter"></a></td>
     <td><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">
@@ -53,6 +49,9 @@
     </a></td>
 </table>
 Let's schedule a meeting by  <a href="https://calendly.com/sandipandas/15min">calendly Click Here </a>
+<hr />
+<img src="img/work-example.jpg" alt="Work Examples">
+<h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
 
 <!--
 **sandidas/sandidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
