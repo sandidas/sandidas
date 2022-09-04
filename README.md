@@ -38,9 +38,6 @@
     <td><a target="_blank" href="https://www.facebook.com/sandipandas.net">
         <img src="img/facebook-svgrepo-com.svg" width="40px" alt="Facebook">
     </a></td>
-    <td><a target="_blank" href="skype:live:sandipanbdas?chat">
-        <img src="img/skype-svgrepo-com.svg" width="40px" alt="Skype: sandipanbdas">
-    </a></td>
     <td><a target="_blank" href="https://calendly.com/sandipandas/15min">
         <img src="img/calendar-svgrepo-com.svg" width="40px" alt="Calendly">
     </a></td>
@@ -48,7 +45,7 @@
         <img src="img/gmail-svgrepo-com.svg" width="40px" alt="Email">
     </a></td>
 </table>
-Let's schedule a meeting by  <a href="https://calendly.com/sandipandas/15min">calendly Click Here </a>
+Let's schedule a FREE meeting by  <a href="https://calendly.com/sandipandas/15min">calendly click here </a> Or skype me at "sandipanbdas"
 <hr />
 <img src="img/work-example.jpg" alt="Work Examples">
 <h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
