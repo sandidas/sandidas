@@ -1,7 +1,19 @@
 ### Hi All 👋
-<h1>Sandipan Das here.</h1>
-<p style="font-size:1.2rem">I’m Sandipan Das, Full Stack Web Developer (WordPress | Laravel | CodeIgniter | UI/UX). Programming is my passion and profession. My Goal Is To​ Design And Develop Websites To Promote Your Business.  I’m very passionate about sharing my expertise globally and help out others.</p>
 
+<p style="font-size:1.2rem">I’m Sandipan Das, 
+<strong> Full Stack Web Developer</strong> </p>
+<ul>
+<li>React </li>
+<li>Laravel </li>
+<li>WordPress </li>
+<li>CodeIgniter </li>
+<li>UI/UX </li>
+</ul>
+<p style="font-size:1.2rem">Programming is my passion and profession. </p>
+<p style="font-size:1.2rem">Last few years, I have completed hundreds of web projects using various platforms. </p>
+<p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
+
+<p>🔭 I’m currently working on <strong> SiteRacks, </strong> <strong> Cloud HCM </strong>  </p>
 
 
 
