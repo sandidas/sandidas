@@ -13,21 +13,36 @@
 <p style="font-size:1.2rem">Last few years, I have completed hundreds of web projects using various platforms. </p>
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 
-<hr />
-<strong> My Portfolio Websites: </strong>
-<p>https://sandipandas.net</p>
-<p>https://sandipandas.dev</p>
 
-<strong> Social Links </strong>
-<ul>
-<li><a href="https://twitter.com/sandipandas_net">Twitter</a></li>
-<li><a href="https://www.instagram.com/sandipandas.dev/">Instagram</a></li>
-<li><a href="https://www.linkedin.com/in/sandipandasdev/">Linkedin</a></li>
-<li><a href="https://www.behance.net/sandipand">Behance</a></li>
-<li><a href="https://www.facebook.com/sandipandas.net">Facebook</a></li>
-<li><a href="skype:live:sandipanbdas?chat">Skype</a></li>
-<li><a href="https://calendly.com/sandipandas/15min">Calendly</a></li>
-</ul>
+<table>
+    <th>
+        <td><strong> My Portfolio Websites: </strong></td> 
+        <td><strong> Social Links </strong></td> 
+    </th>
+    <tbody>
+        <tr> 
+            <td><ul>
+<li><a target="_blank" href="https://sandipandas.net">sandipandas.net</a> </li>
+<li><a target="_blank" href="https://sandipandas.dev">sandipandas.dev</a> </li>
+</ul></td> 
+            <td><ul>
+<li><a target="_blank" href="https://twitter.com/sandipandas_net">Twitter</a></li>
+<li><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">Instagram</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">Linkedin</a></li>
+<li><a target="_blank" href="https://www.behance.net/sandipand">Behance</a></li>
+<li><a target="_blank" href="https://www.facebook.com/sandipandas.net">Facebook</a></li>
+<li><a target="_blank" href="skype:live:sandipanbdas?chat">Skype: sandipanbdas</a></li>
+<li><a target="_blank" href="https://calendly.com/sandipandas/15min">Calendly</a></li>
+</ul></td> 
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
 
 Let's schedule a meeting by  <a href="https://calendly.com/sandipandas/15min">calendly Click Here </a>
 
