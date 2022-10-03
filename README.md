@@ -17,7 +17,6 @@
 <h2><strong>Tools and Technology</strong></h2>
 <table>
     <td> <img src="img/ubuntu-svgrepo-com.svg" width="40px" alt="ubuntu"> </td>
-    <td> <img src="img/plesk-svgrepo-com.svg" width="40px" alt="plesk"> </td>
     <td> <img src="img/cpanel-svgrepo-com.svg" width="40px" alt="cpanel"> </td>
     <td> <img src="img/html-svgrepo-com.svg" width="40px" alt="HTML5"> </td>
     <td> <img src="img/css-3-svgrepo-com.svg" width="40px" alt="CSS3"> </td>
