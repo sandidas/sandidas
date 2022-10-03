@@ -1,4 +1,4 @@
-### Hi All 👋
+### Ahoy! Mate👋
 
 <p style="font-size:1.2rem">I’m Sandipan Das, 
 <strong> Full Stack Web Developer</strong> (React, Laravel, WordPress, CodeIgniter, and UI/UX) </p>
