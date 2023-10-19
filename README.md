@@ -7,12 +7,12 @@
 <h2><strong>Language and Tech Stack</strong></h2>
 <table>
     <td> <img src="https://sandipandas.dev/images/icons/banner-icons/react-svgrepo-com.svg" width="40px" alt="React"> </td>
-    <td> <img src="img/php-svgrepo-com.svg" width="40px" alt="PHP"> </td>
-    <td> <img src="img/js-svgrepo-com.svg" width="40px" alt="JavaScript"> </td>
-    <td> <img src="img/laravel-logo-svgrepo-com.svg" width="40px" alt="Laravel"> </td>
-    <td> <img src="img/wordpress-svgrepo-com.svg" width="40px" alt="WordPress"> </td>
-    <td> <img src="img/codeigniter-logo-svgrepo-com.svg" width="40px" alt="CodeIgniter"> </td>
-    <td> <img src="img/nodejs-icon-logo-svgrepo-com.svg" width="40px"  alt="NodeJs"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/php-svgrepo-com.svg" width="40px" alt="PHP"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/js-svgrepo-com.svg" width="40px" alt="JavaScript"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/laravel-logo-svgrepo-com.svg" width="40px" alt="Laravel"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/wordpress-svgrepo-com.svg" width="40px" alt="WordPress"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/Typescript.svg" width="40px" alt="TypeScript"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/nodejs-icon-logo-svgrepo-com.svg" width="40px"  alt="NodeJs"> </td>
 </table>
 <h2><strong>Tools and Technology</strong></h2>
 <table>
@@ -24,29 +24,26 @@
 </table>
 <h2><strong>📫 How to reach me:</strong></h2>
 <table>
-    <td><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="img/twitter-svgrepo-com.svg" alt="twitter"></a></td>
+    <td><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="https://sandipandas.dev/images/icons/social-icons/twitter.svg" alt="twitter"></a></td>
     <td><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">
-        <img width="40px" src="img/instagram-svgrepo-com.svg" alt="Instagram">
+        <img width="40px" src="https://sandipandas.dev/images/icons/social-icons/instagram.svg" alt="Instagram">
     </a></td>
     <td><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">
-        <img src="img/linkedin-svgrepo-com.svg" width="40px" alt="Linkedin">
-    </a></td>
-    <td><a target="_blank" href="https://www.behance.net/sandipand">
-        <img src="img/behance-svgrepo-com.svg" width="40px" alt="Behance">
-    </a></td>
+        <img src="https://sandipandas.dev/images/icons/social-icons/linkdIn.svg" width="40px" alt="Linkedin">
+    </a></td>  
     <td><a target="_blank" href="https://www.facebook.com/sandipandas.net">
-        <img src="img/facebook-svgrepo-com.svg" width="40px" alt="Facebook">
+        <img src="https://sandipandas.dev/images/icons/social-icons/facebook.svg" width="40px" alt="Facebook">
     </a></td>
     <td><a target="_blank" href="https://calendly.com/sandipandas/15min">
-        <img src="img/calendar-svgrepo-com.svg" width="40px" alt="Calendly">
+        <img src="https://sandipandas.dev/images/icons/social-icons/calender.svg" width="40px" alt="Calendly">
     </a></td>
     <td><a target="_blank" href="mailto:hello@sandipandas.net">
-        <img src="img/gmail-svgrepo-com.svg" width="40px" alt="Email">
+        <img src="https://sandipandas.dev/images/icons/social-icons/envelope.svg" width="40px" alt="Email">
     </a></td>
 </table>
 Let's schedule a FREE meeting by  <a href="https://calendly.com/sandipandas/15min">calendly click here </a> Or skype me at "sandipanbdas"
 <hr />
-<img src="img/work-example.jpg" alt="Work Examples">
+<img src="https://sandipandas.dev/images/icons/nav-icons/projects.svg" alt="Work Examples">
 <h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
 
 <!--
