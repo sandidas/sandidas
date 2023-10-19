@@ -24,26 +24,25 @@
 </table>
 <h2><strong>📫 How to reach me:</strong></h2>
 <table>
-    <td><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="https://sandipandas.dev/images/icons/social-icons/twitter.svg" alt="twitter"></a></td>
-    <td><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">
+    <td style="background-color:#FFF"><a target="_blank" href="https://twitter.com/sandipandas_net"> <img width="40px" src="https://sandipandas.dev/images/icons/social-icons/twitter.svg" alt="twitter"></a></td>
+    <td style="background-color:#FFF"><a target="_blank" href="https://www.instagram.com/sandipandas.dev/">
         <img width="40px" src="https://sandipandas.dev/images/icons/social-icons/instagram.svg" alt="Instagram">
     </a></td>
-    <td><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">
+    <td style="background-color:#FFF"><a target="_blank" href="https://www.linkedin.com/in/sandipandasdev/">
         <img src="https://sandipandas.dev/images/icons/social-icons/linkdIn.svg" width="40px" alt="Linkedin">
     </a></td>  
-    <td><a target="_blank" href="https://www.facebook.com/sandipandas.net">
+    <td style="background-color:#FFF"><a target="_blank" href="https://www.facebook.com/sandipandas.net">
         <img src="https://sandipandas.dev/images/icons/social-icons/facebook.svg" width="40px" alt="Facebook">
     </a></td>
-    <td><a target="_blank" href="https://calendly.com/sandipandas/15min">
+    <td style="background-color:#FFF"><a target="_blank" href="https://calendly.com/sandipandas/15min">
         <img src="https://sandipandas.dev/images/icons/social-icons/calender.svg" width="40px" alt="Calendly">
     </a></td>
-    <td><a target="_blank" href="mailto:hello@sandipandas.net">
+    <td style="background-color:#FFF"><a target="_blank" href="mailto:hello@sandipandas.net">
         <img src="https://sandipandas.dev/images/icons/social-icons/envelope.svg" width="40px" alt="Email">
     </a></td>
 </table>
 Let's schedule a FREE meeting by  <a href="https://calendly.com/sandipandas/15min">calendly click here </a> Or skype me at "sandipanbdas"
 <hr />
-<img src="https://sandipandas.dev/images/icons/nav-icons/projects.svg" alt="Work Examples">
 <h2><strong> <a href="https://sandipandas.net">See More Work Examples</a> </strong></h2>
 
 <!--
