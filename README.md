@@ -6,7 +6,7 @@
 <p style="font-size:1.2rem"> <strong>I’m very passionate about sharing my expertise globally and help out others.</strong>  </p>
 <h2><strong>Language and Tech Stack</strong></h2>
 <table>
-    <td> <img src="[img/react-svgrepo-com.svg](https://sandipandas.dev/images/icons/banner-icons/react-svgrepo-com.svg)" width="40px" alt="React"> </td>
+    <td> <img src="https://sandipandas.dev/images/icons/banner-icons/react-svgrepo-com.svg" width="40px" alt="React"> </td>
     <td> <img src="img/php-svgrepo-com.svg" width="40px" alt="PHP"> </td>
     <td> <img src="img/js-svgrepo-com.svg" width="40px" alt="JavaScript"> </td>
     <td> <img src="img/laravel-logo-svgrepo-com.svg" width="40px" alt="Laravel"> </td>
